@@ -1,7 +1,6 @@
 ### Hi there 👋, I'am Niloy Das
 #### Computer science and technology student
-![Computer science and technology student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![Computer science and technology student] 
 "Focused on Programming & Problem Solving | Interested in software Development | Exploring HTML, CSS, Python. Always learning, always growing"
 
 Skills:  HTML / CSS/ Python
